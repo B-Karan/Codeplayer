@@ -1,0 +1,70 @@
+body{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+#header{
+    width: 100%;
+    background-color: #eeeeee;
+    padding: 5px;
+    height: 30px;
+}
+
+iframe{
+    border: none;
+}
+.highlighter{
+    background-color: grey;
+}
+
+.active{
+background-color: aquamarine;
+
+}
+
+textarea{
+    resize: none;
+    border: none;
+    border-right: 1px solid grey;
+}
+
+.hidden{
+    display: none;
+}
+
+#buttonContainer{
+    width: 250px;
+    margin: 0 auto;
+}
+
+.toggleButton{
+    float: left;
+    border: 1px solid grey;
+    padding: 6px;
+    border-right: none;
+    font-size: 90%;
+}
+
+#logo{
+    float: left;
+    font-weight: bold;
+    font-size: 120%;
+    padding: 3px 5px;
+}
+
+#html{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+#output{
+    border-right: 1px solid grey;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+
+
+
